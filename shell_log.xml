@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<session username="user1"><action timestamp="2024-12-05T13:18:23.616248" command="ls ">file1.txt  file2.txt  subdir</action><action timestamp="2024-12-05T13:18:32.710591" command="cd subdir">Перешли в директорию: /subdir</action><action timestamp="2024-12-05T13:18:37.112688" command="ls">file3.txt</action><action timestamp="2024-12-05T13:18:49.975544" command="cat file3.txt">Это содержимое файла в поддиректории.
+</action><action timestamp="2024-12-05T13:19:04.842943" command="head file3.txt">Это содержимое файла в поддиректории.
+</action><action timestamp="2024-12-05T13:20:08.598448" command="tac file3.txt">Это содержимое файла в поддиректории.
+</action><action timestamp="2024-12-05T13:20:19.274061" command="cd ..">Перешли в директорию: /</action><action timestamp="2024-12-05T13:20:23.920713" command="ls">file1.txt  file2.txt  subdir</action><action timestamp="2024-12-05T13:20:25.661886" command="ls">file1.txt  file2.txt  subdir</action><action timestamp="2024-12-05T13:20:38.056059" command="tac file1.txt">Это содержимое файла 1.
+</action></session>
